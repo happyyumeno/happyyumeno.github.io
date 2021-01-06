@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "七五三"
+description: 2019年4月 入学式に撮りました
+date: 2021-01-03 10:51:47 +0530
+categories: jekyll update
+img: 753.jpg
+color: 1976D2
+author: happyyumeno
+---
+![キャプション]({{site.baseurl}}/images/753.jpg)
+# 2019年4月 入学式に撮りました
