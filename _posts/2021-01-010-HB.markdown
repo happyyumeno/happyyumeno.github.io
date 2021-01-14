@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "HAPPY DAY"
+description: 人生最高の誕生日★
+date: 2021-01-03 10:51:47 +0530
+categories: jekyll update
+img: present.jpg
+color: ff6347
+author: happyyumeno
+---
+![キャプション]({{site.baseurl}}/images/present.jpg)
+ たくさんのプレゼントをもらいました★
+ 大好きな人たちと元気に過ごせるだけで幸せいっぱい^^
+ その上、手編みのマフラー（人生初の手編みもらった^^）に、手作りのクロスステッチに、自分のために時間をかけて作ってもらったことに感動してうるうる（T-T）
+ ありがとう～～
+
+![キャプション]({{site.baseurl}}/images/cook.jpg)
+やってみたかったアイシングクッキーでドラクエもつくれて楽しかったです(#^^#)
